@@ -396,10 +396,10 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .hero {
-    background-image: url('../images/hero-bg.jpg');
+    /* background-image: url('../images/hero-bg.jpg');
     background-size: cover;
     background-position: top;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     vertical-align: middle;
     min-height: 100vh;
     position: relative;

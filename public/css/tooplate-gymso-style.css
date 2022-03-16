@@ -404,7 +404,14 @@ https://www.tooplate.com/view/2119-gymso-fitness
     min-height: 100vh;
     position: relative;
   }
-
+  #myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: 100%; 
+    max-height: 100%;
+  }
 
   /*---------------------------------------
      CLASS               

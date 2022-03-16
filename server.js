@@ -7,6 +7,12 @@ app.use(express.static(__dirname + '/public/'));
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/index.html'));
 });
+app.get('/patia', (req, res) => {
+    res.sendFile(path.join(__dirname + '/patia.html'));
+});
+app.get('/jagamara', (req, res) => {
+    res.sendFile(path.join(__dirname + '/jagamara.html'));
+});
 
 app.post('/contact', (req, res) => {
     console.log('post route working');

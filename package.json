@@ -1,7 +1,7 @@
 {
-  "name": "Hack-The-Solution",
+  "name": "ATF",
   "version": "1.0.0",
-  "description": "This project is a Fitness website.",
+  "description": "This project is a gym website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
